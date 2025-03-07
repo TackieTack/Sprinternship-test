@@ -1,4 +1,4 @@
-# git-practice
+# Sprinternship-test
 
 intro to git
 
