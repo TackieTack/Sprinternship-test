@@ -1,5 +1,6 @@
-# Sprinternship-test
+
+# New Title
 
 intro to git
 
-hello, this is a change to the reader
+hello, this is a change to the readme
